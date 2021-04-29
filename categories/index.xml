@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Akash Vani</title>
+    <link>https://a-vani.github.io/categories/</link>
+      <atom:link href="https://a-vani.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Akash Vani 2021</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-vani.github.io/media/icon_hu55d93151873be2575d78308769419bed_22970_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://a-vani.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

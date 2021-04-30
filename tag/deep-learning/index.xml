@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Akash Vani</title>
-    <link>https://a-vani.github.io/project/</link>
-      <atom:link href="https://a-vani.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Deep Learning | Akash Vani</title>
+    <link>https://a-vani.github.io/tag/deep-learning/</link>
+      <atom:link href="https://a-vani.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Akash Vani 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://a-vani.github.io/media/icon_hu55d93151873be2575d78308769419bed_22970_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://a-vani.github.io/project/</link>
+      <title>Deep Learning</title>
+      <link>https://a-vani.github.io/tag/deep-learning/</link>
     </image>
     
     <item>

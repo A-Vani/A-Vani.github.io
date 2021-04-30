@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mini-Projects | Akash Vani</title>
+    <link>https://a-vani.github.io/tag/mini-projects/</link>
+      <atom:link href="https://a-vani.github.io/tag/mini-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mini-Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Akash Vani 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-vani.github.io/media/icon_hu55d93151873be2575d78308769419bed_22970_512x512_fill_lanczos_center_2.png</url>
+      <title>Mini-Projects</title>
+      <link>https://a-vani.github.io/tag/mini-projects/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning in Astronomy</title>
+      <link>https://a-vani.github.io/project/dlastro/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://a-vani.github.io/project/dlastro/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+This was a self guided project. The aim was to understand the basics of deep learning techniques by using TensorFlow. Here a simple neural network is implemented to find whether a galaxy is spiral or elliptical based on photometric data or images obtained from SDSS. The data was provided by Ashish Mahabal during the 7BISS (2020) summer school.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantum Key Distribution- BB84 &amp; E91 Protocol</title>
+      <link>https://a-vani.github.io/project/qkd/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://a-vani.github.io/project/qkd/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+We a team of two, demonstrated the working of the BB84 and E91 QKD protocol on a IBM quantum computer. We also looked into the transmission of the qubits with and without repeaters to illustrate the working of a quantum network.
+Guide: Prof. Fred Jendrzejewski, University of Heidelberg, Germany
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

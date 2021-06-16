@@ -29,8 +29,7 @@ This was a self guided project. The aim was to understand the basics of deep lea
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/qkd/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-We a team of two, demonstrated the working of the BB84 and E91 QKD protocol on a IBM quantum computer. We also looked into the transmission of the qubits with and without repeaters to illustrate the working of a quantum network.
-Guide: Prof. Fred Jendrzejewski, University of Heidelberg, Germany
+We a team of two, demonstrated the working of the BB84 and E91 QKD protocol on a IBM quantum computer. We also looked into the transmission of the qubits with and without repeaters to illustrate the working of a quantum network on the IBMQ computer.
 &lt;/p&gt;
 </description>
     </item>
@@ -42,7 +41,6 @@ Guide: Prof. Fred Jendrzejewski, University of Heidelberg, Germany
       <guid>https://a-vani.github.io/project/polarimetry/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
 This presentation explores the basics of polarimetry using Jones and Stokes formalism and material interaction of polarised light.
-GGuide: Prof. Nirmalya Ghosh, IISER Kolkata, India
 &lt;/p&gt;
 </description>
     </item>

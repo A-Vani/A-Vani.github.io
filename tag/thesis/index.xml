@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis | Akash Vani</title>
+    <link>https://a-vani.github.io/tag/thesis/</link>
+      <atom:link href="https://a-vani.github.io/tag/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Akash Vani 2021-2023</copyright><lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-vani.github.io/media/icon_huc8ba58f447d735814d2e3ba3020aeaf2_17412_512x512_fill_lanczos_center_3.png</url>
+      <title>Thesis</title>
+      <link>https://a-vani.github.io/tag/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Properties of stellar populations and white dwarfs in a semi-analytic Milky Way disk model based on Gaia DR3</title>
+      <link>https://a-vani.github.io/project/jjmodel/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://a-vani.github.io/project/jjmodel/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+This work presents the extension to the white dwarfs (WD) of the semi-analytic chemo-dynamic model of the Milky Way disc, first presented by Just and Jahreiß (2010), called the JJ model. First, we test the JJ model’s calibration and find the inconsistency in the total star counts to be about 0.2 % and 2.2 % in 25 pc and 60 pc volume based on Gaia EDR3, respectively, implying an excellent data-to model consistency. We then enable the model to synthesise WDs using BaSTI DA and DB (carbon-oxygen core) WD isochrones and an initial-final mass relation. We also model the stellar lifetimes and produce an analytical fit to model the DA/DB ratio as a function of Teff. Finally, we also derive a volume complete Gaia DR3 WD sample in 60 pc and find that the JJ model over-predicts WDs by 52 %. This inconsistency can be linked to the assumed properties of the initial mass function (IMF) and star formation rate (SFR). Thus, the text briefly explores the model’s dependence on the IMF. A test IMF is derived; however, a thorough MCMC-based model calibration is required.
+This extended JJ model constitutes an excellent tool for deriving MW evolution relations such as the IMF and SFR and studying the kinematics of WDs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photometric Calibration of UVIT</title>
+      <link>https://a-vani.github.io/project/uvit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://a-vani.github.io/project/uvit/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+Photometric calibrations are important part of observations aimed at deriving photometric magnitudes of objects. In order to get useful calibrations, it is required to make various corrections for instrumental effects, such as. saturation and spatial variation of sensitivity. This work discusses the procedures to find best estimates of the photon counts per second (C/S) in the filters of UVIT (Ultraviolet Imaging Telescope onboard ASTROSAT) for the calibration source HZ4 (a white dwarf) and an open cluster NGC188 at high declination. In particular it is checked that the procedures for flat field correction are effective in minimizing spatial variation to which leads to improved photometry.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

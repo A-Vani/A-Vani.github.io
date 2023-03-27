@@ -5,12 +5,43 @@
     <link>https://a-vani.github.io/project/</link>
       <atom:link href="https://a-vani.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Akash Vani 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Akash Vani 2021-2023</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://a-vani.github.io/media/icon_huc8ba58f447d735814d2e3ba3020aeaf2_17412_512x512_fill_lanczos_center_2.png</url>
+      <url>https://a-vani.github.io/media/icon_huc8ba58f447d735814d2e3ba3020aeaf2_17412_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://a-vani.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>The Fifth Catalogue of Nearby Stars</title>
+      <link>https://a-vani.github.io/project/cns5/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-vani.github.io/project/cns5/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+The aim of this work was to construct and explore a catalogue of all stars withins 25pc around the Sun. I primarily did an early analysis of the completeness limit and the luminosity function and later explored the local stellar density variations and the properties of the stellar content of the catalogue. This work was later published in A&amp;A.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Properties of stellar populations and white dwarfs in a semi-analytic Milky Way disk model based on Gaia DR3</title>
+      <link>https://a-vani.github.io/project/jjmodel/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://a-vani.github.io/project/jjmodel/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+This work presents the extension to the white dwarfs (WD) of the semi-analytic chemo-dynamic model of the Milky Way disc, first presented by Just and Jahreiß (2010), called the JJ model. First, we test the JJ model’s calibration and find the inconsistency in the total star counts to be about 0.2 % and 2.2 % in 25 pc and 60 pc volume based on Gaia EDR3, respectively, implying an excellent data-to model consistency. We then enable the model to synthesise WDs using BaSTI DA and DB (carbon-oxygen core) WD isochrones and an initial-final mass relation. We also model the stellar lifetimes and produce an analytical fit to model the DA/DB ratio as a function of Teff. Finally, we also derive a volume complete Gaia DR3 WD sample in 60 pc and find that the JJ model over-predicts WDs by 52 %. This inconsistency can be linked to the assumed properties of the initial mass function (IMF) and star formation rate (SFR). Thus, the text briefly explores the model’s dependence on the IMF. A test IMF is derived; however, a thorough MCMC-based model calibration is required.
+This extended JJ model constitutes an excellent tool for deriving MW evolution relations such as the IMF and SFR and studying the kinematics of WDs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigation of two M-dwarf binaries</title>
+      <link>https://a-vani.github.io/project/mdwarfbin/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://a-vani.github.io/project/mdwarfbin/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+We found two binary systems which have the potential to be a quadruple system. This project was about exploring these two systems however, due to high orbital period and lack of data, the conclusion is yet to be drawn. &lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deep Learning in Astronomy</title>
@@ -29,18 +60,18 @@ This was a self guided project. The aim was to understand the basics of deep lea
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/qkd/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-We a team of two, demonstrated the working of the BB84 and E91 QKD protocol on a IBM quantum computer. We also looked into the transmission of the qubits with and without repeaters to illustrate the working of a quantum network on the IBMQ computer.
+In this brief work, we got our hands on IBM&#39;s quantum computer. We demonstrated the working of the BB84 and E91 quantum key distribution protocol on the IBM quantum computer. We additionally looked into the performance of the two QKD protocols with and without repeaters to illustrate the working of a quantum network.
 &lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Spectral and timing study of LMXB system 4U 1702-429 using Astrosats X-Ray data</title>
+      <title>Spectral and timing study of LMXB system 4U 1702-429 using Astrosats X-ray data</title>
       <link>https://a-vani.github.io/project/1702/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/1702/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-The study of thermonuclear (Type-I) X-ray burst from 4U 1702-429, a low mass X-ray binary (LMXB), using ASTROSAT’s Large Area X-ray Proportional Counter (LAPXC) data. This explores the timing and spectral aspects of the data.
+This work aims at the spectral and timing study of a thermonuclear (Type-I) X-ray burst from 4U 1702-429, a low mass X-ray binary system. It uses data from ASTROSAT’s LAPXC and SXT instruments.
 &lt;/p&gt;
 </description>
     </item>
@@ -51,8 +82,7 @@ The study of thermonuclear (Type-I) X-ray burst from 4U 1702-429, a low mass X-r
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/polarimetry/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-This presentation explores the basics of polarimetry using Jones and Stokes formalism and material interaction of polarised light.
-&lt;/p&gt;
+In this work, I carry out a literature survey to understand the formalism and the theme of polarimetry. It coveres the topics of Jones and Stokes formalism and material interactions. The project included a hands-on laboratory component and was conluded with a presentation.&lt;/p&gt;
 </description>
     </item>
     
@@ -62,7 +92,8 @@ This presentation explores the basics of polarimetry using Jones and Stokes form
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/cpt/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-We, a group of two, synthesized Bismuth Oxyiodide (BiOI) nanodiscs using co-precipitative (CPT) method and intern used X-ray diffraction (XRD) and Scanning electron microscopy (SEM) to confirm its formation. We also tried to experiment with its photocatalytic properties.
+Bismuth Oxyiodide (BiOI) is a photocatalytic material which shows remarkable electrical and optical properties, and can used to decompose pollutants in aquaous systems. In this work, we synthese BiOI nandics using the co-precipitative method and confirm the formation of the nano structures using  X-ray diffraction and scanning electron microscopy methods. Upon the confirmation of the material, we also test its photocatalytic properties.
+This work was lead by S. Patil which cumlminated into his bachelor thesis.
 &lt;/p&gt;
 </description>
     </item>
@@ -73,8 +104,7 @@ We, a group of two, synthesized Bismuth Oxyiodide (BiOI) nanodiscs using co-prec
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/uvit/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-This Bachelors project discusses the procedures to find best estimates of counts per second in the filters of UVIT, an Ultraviolet Imaging Telescope onboard the Indian space obsorvatory ASTROSAT. This is done for the calibration source HZ4 (a white dwarf) and an open cluster NGC188 at high declination. It also verifies that the process of Flat field correction (inclusive of Remainder Correction) leads to improved photometry.
-&lt;/p&gt;
+Photometric calibrations are important part of observations aimed at deriving photometric magnitudes of objects. In order to get useful calibrations, it is required to make various corrections for instrumental effects, such as. saturation and spatial variation of sensitivity. This work discusses the procedures to find best estimates of the photon counts per second (C/S) in the filters of UVIT (Ultraviolet Imaging Telescope onboard ASTROSAT) for the calibration source HZ4 (a white dwarf) and an open cluster NGC188 at high declination. In particular it is checked that the procedures for flat field correction are effective in minimizing spatial variation to which leads to improved photometry.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,9 +5,9 @@
     <link>https://a-vani.github.io/tag/mini-projects/</link>
       <atom:link href="https://a-vani.github.io/tag/mini-projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Mini-Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Akash Vani 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Akash Vani 2021-2023</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://a-vani.github.io/media/icon_huc8ba58f447d735814d2e3ba3020aeaf2_17412_512x512_fill_lanczos_center_2.png</url>
+      <url>https://a-vani.github.io/media/icon_huc8ba58f447d735814d2e3ba3020aeaf2_17412_512x512_fill_lanczos_center_3.png</url>
       <title>Mini-Projects</title>
       <link>https://a-vani.github.io/tag/mini-projects/</link>
     </image>
@@ -29,7 +29,7 @@ This was a self guided project. The aim was to understand the basics of deep lea
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/qkd/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-We a team of two, demonstrated the working of the BB84 and E91 QKD protocol on a IBM quantum computer. We also looked into the transmission of the qubits with and without repeaters to illustrate the working of a quantum network on the IBMQ computer.
+In this brief work, we got our hands on IBM&#39;s quantum computer. We demonstrated the working of the BB84 and E91 quantum key distribution protocol on the IBM quantum computer. We additionally looked into the performance of the two QKD protocols with and without repeaters to illustrate the working of a quantum network.
 &lt;/p&gt;
 </description>
     </item>
@@ -40,8 +40,7 @@ We a team of two, demonstrated the working of the BB84 and E91 QKD protocol on a
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/polarimetry/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-This presentation explores the basics of polarimetry using Jones and Stokes formalism and material interaction of polarised light.
-&lt;/p&gt;
+In this work, I carry out a literature survey to understand the formalism and the theme of polarimetry. It coveres the topics of Jones and Stokes formalism and material interactions. The project included a hands-on laboratory component and was conluded with a presentation.&lt;/p&gt;
 </description>
     </item>
     

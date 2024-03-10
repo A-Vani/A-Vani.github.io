@@ -2,64 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://a-vani.github.io/aboutme/</loc>
+    <lastmod>2024-03-11T03:13:13+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://a-vani.github.io/cv/</loc>
-    <lastmod>2023-03-28T01:49:41+05:30</lastmod>
+    <lastmod>2024-03-11T03:18:55+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-vani.github.io/usefullinks/</loc>
+    <lastmod>2024-03-11T03:12:13+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/publication-type/2/</loc>
-    <lastmod>2023-03-26T14:04:56+05:30</lastmod>
+    <lastmod>2024-03-10T23:34:10+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-vani.github.io/tag/major-projects/</loc>
-    <lastmod>2023-03-26T20:49:34+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-vani.github.io/project/</loc>
-    <lastmod>2023-03-27T00:32:33+05:30</lastmod>
+    <loc>https://a-vani.github.io/publication/new_wds/</loc>
+    <lastmod>2024-03-10T23:34:10+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/publication_types/</loc>
-    <lastmod>2023-03-26T14:04:56+05:30</lastmod>
+    <lastmod>2024-03-10T23:34:10+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-vani.github.io/tag/major-projects/</loc>
+    <lastmod>2024-03-10T23:17:26+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-vani.github.io/project/</loc>
+    <lastmod>2024-03-10T23:17:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/tags/</loc>
-    <lastmod>2023-03-27T00:32:33+05:30</lastmod>
+    <lastmod>2024-03-10T23:17:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/project/cns5/</loc>
-    <lastmod>2023-03-26T20:39:43+05:30</lastmod>
+    <lastmod>2024-03-10T22:09:10+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-vani.github.io/publication/journal-article/</loc>
+    <loc>https://a-vani.github.io/publication/cns5/</loc>
     <lastmod>2023-03-26T14:04:56+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/talk/the-stellar-content-of-the-solar-neighborhood-its-modelling/</loc>
-    <lastmod>2023-03-28T01:40:40+05:30</lastmod>
+    <lastmod>2024-03-10T23:42:05+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/talk/properties-of-white-dwarfs-in-a-semi-analytic-milky-way-model-based-on-gaia-dr3/</loc>
-    <lastmod>2023-03-26T15:06:34+05:30</lastmod>
+    <lastmod>2024-03-10T23:47:18+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/</loc>
-    <lastmod>2024-03-01T14:51:40+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-vani.github.io/aboutme/</loc>
-    <lastmod>2024-03-01T14:56:15+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-vani.github.io/usefullinks/</loc>
-    <lastmod>2023-03-28T01:43:27+05:30</lastmod>
+    <lastmod>2024-03-10T23:47:01+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/project/jjmodel/</loc>
-    <lastmod>2023-03-26T20:45:29+05:30</lastmod>
+    <lastmod>2024-03-10T22:03:25+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/tag/thesis/</loc>
-    <lastmod>2023-03-26T20:49:34+05:30</lastmod>
+    <lastmod>2024-03-10T23:17:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/talk/properties-of-white-dwarfs-in-the-jj-model-based-on-gaia-edr3/</loc>
@@ -67,11 +71,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/project/mdwarfbin/</loc>
-    <lastmod>2023-03-27T00:32:33+05:30</lastmod>
+    <lastmod>2024-03-10T22:16:51+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/tag/minor-projects/</loc>
-    <lastmod>2023-03-27T00:32:33+05:30</lastmod>
+    <lastmod>2024-03-10T22:16:51+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/tag/academic/</loc>
@@ -99,19 +103,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/project/dlastro/</loc>
-    <lastmod>2023-03-26T15:43:30+05:30</lastmod>
+    <lastmod>2024-03-10T22:21:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/tag/mini-projects/</loc>
-    <lastmod>2023-03-26T20:15:34+05:30</lastmod>
+    <lastmod>2024-03-10T22:25:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/project/qkd/</loc>
-    <lastmod>2023-03-26T20:15:34+05:30</lastmod>
+    <lastmod>2024-03-10T22:20:09+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/project/1702/</loc>
-    <lastmod>2023-03-26T20:12:33+05:30</lastmod>
+    <lastmod>2024-03-10T22:22:39+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/post/writing-technical-content/</loc>
@@ -119,11 +123,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/project/polarimetry/</loc>
-    <lastmod>2023-03-26T20:09:15+05:30</lastmod>
+    <lastmod>2024-03-10T22:25:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/project/cpt/</loc>
-    <lastmod>2023-03-26T20:06:01+05:30</lastmod>
+    <lastmod>2024-03-10T22:27:28+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/post/jupyter/</loc>
@@ -139,7 +143,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/project/uvit/</loc>
-    <lastmod>2023-03-26T20:49:34+05:30</lastmod>
+    <lastmod>2024-03-10T23:17:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/publication-type/1/</loc>
@@ -163,7 +167,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-vani.github.io/event/</loc>
-    <lastmod>2023-01-29T21:08:09+05:30</lastmod>
+    <lastmod>2024-03-11T00:22:46+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

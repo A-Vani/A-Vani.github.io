@@ -18,7 +18,7 @@
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/cns5/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-The aim of this work was to construct and explore a catalogue of all stars withins 25pc around the Sun. I primarily did an early analysis of the completeness limit and the luminosity function and later explored the local stellar density variations and the properties of the stellar content of the catalogue. This work was later published in A&amp;A.&lt;/p&gt;
+&lt;p&gt;This project aimed to compile and analyse a comprehensive catalogue of stars within a 25 parsec radius of the Sun. My primary contributions involved early analyses of the catalogue&amp;rsquo;s completeness limit and luminosity function, followed by investigations into local stellar density variations and the properties of the stellar content. The findings from this research were subsequently published in A&amp;amp;A (&lt;a href=&#34;https://doi.org/10.1051/0004-6361/202244250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;).&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -28,8 +28,7 @@ The aim of this work was to construct and explore a catalogue of all stars withi
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/jjmodel/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-This work presents the extension to the white dwarfs (WD) of the semi-analytic chemo-dynamic model of the Milky Way disc, first presented by Just and Jahreiß (2010), called the JJ model. First, we test the JJ model’s calibration and find the inconsistency in the total star counts to be about 0.2 % and 2.2 % in 25 pc and 60 pc volume based on Gaia EDR3, respectively, implying an excellent data-to model consistency. We then enable the model to synthesise WDs using BaSTI DA and DB (carbon-oxygen core) WD isochrones and an initial-final mass relation. We also model the stellar lifetimes and produce an analytical fit to model the DA/DB ratio as a function of Teff. Finally, we also derive a volume complete Gaia DR3 WD sample in 60 pc and find that the JJ model over-predicts WDs by 52 %. This inconsistency can be linked to the assumed properties of the initial mass function (IMF) and star formation rate (SFR). Thus, the text briefly explores the model’s dependence on the IMF. A test IMF is derived; however, a thorough MCMC-based model calibration is required.
-This extended JJ model constitutes an excellent tool for deriving MW evolution relations such as the IMF and SFR and studying the kinematics of WDs.&lt;/p&gt;
+This thesis presents the extension of the semi-analytic chemo-dynamic model of the Milky Way disc, known as the JJ model, first presented by Just and Jahreiß (2010), to include white dwarfs (WD). Initially, we test the calibrated JJ model and found minor inconsistencies (about 0.2 % and 2.2 % in 25 pc and 60 pc volume) in total star counts based on Gaia EDR3 data, implying excellent data-to-model consistency. Subsequently, this work incorporated WD synthesis into the model using BaSTI DA and DB (carbon-oxygen core) isochrones and an initial-final mass relation. This work also modeled stellar lifetimes and derived an analytical fit for the DA/DB ratio as a function of effective temperature. Additionally, we established a volume-complete sample of Gaia DR3 WDs within 60 pc and found that the updated JJ model over-predicts WDs by 52%, potentially attributed to assumptions regarding the initial mass function (IMF) and star formation rate (SFR). Exploring this dependency on the IMF, we derived a test IMF; however, a thorough MCMC-based model calibration is warranted. This extended JJ model serves as a valuable tool for studying Milky Way evolution, IMF, SFR, and WD kinematics.&lt;/p&gt;
 </description>
     </item>
     
@@ -39,7 +38,7 @@ This extended JJ model constitutes an excellent tool for deriving MW evolution r
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/mdwarfbin/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-We found two binary systems which have the potential to be a quadruple system. This project was about exploring these two systems however, due to high orbital period and lack of data, the conclusion is yet to be drawn. &lt;/p&gt;
+This project involved the investigation of two binary systems with the potential to form a quadruple system. Despite initial intrigue, the exploration faced challenges due to the systems&#39; high orbital periods and limited data availability, resulting in inconclusive findings. &lt;/p&gt;
 </description>
     </item>
     
@@ -49,7 +48,7 @@ We found two binary systems which have the potential to be a quadruple system. T
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/dlastro/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-This was a self guided project. The aim was to understand the basics of deep learning techniques by using TensorFlow. Here a simple neural network is implemented to find whether a galaxy is spiral or elliptical based on photometric data or images obtained from SDSS. The data was provided by Ashish Mahabal during the 7BISS (2020) summer school.
+&lt;p&gt;This self-guided project aimed to delve into the fundamentals of deep learning techniques using TensorFlow. A simple neural network was devised to classify galaxies as either spiral or elliptical based on photometric data or images extracted from the Sloan Digital Sky Survey (SDSS). The dataset, provided by Ashish Mahabal during the 7BISS (2020) summer school, facilitated hands-on exploration and learning in the field of astrophysical data analysis. The code can be found on &lt;a href=&#34;https://github.com/A-Vani/Deep_Learning_Astronomy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -60,7 +59,7 @@ This was a self guided project. The aim was to understand the basics of deep lea
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/qkd/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-In this brief work, we got our hands on IBM&#39;s quantum computer. We demonstrated the working of the BB84 and E91 quantum key distribution protocol on the IBM quantum computer. We additionally looked into the performance of the two QKD protocols with and without repeaters to illustrate the working of a quantum network.
+&lt;p&gt;This project involved the practical demonstration of the BB84 and E91 quantum key distribution (QKD) protocols using IBM&amp;rsquo;s quantum computer. Through hands-on experimentation, we explored the functionality and performance of these protocols, both with and without repeaters, to simulate the operation of a quantum network. By implementing these protocols on real quantum hardware, we gained valuable insights into the practical challenges and capabilities of quantum cryptography. The code can be found on &lt;a href=&#34;https://github.com/A-Vani/IBMQ_QKD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -71,7 +70,7 @@ In this brief work, we got our hands on IBM&#39;s quantum computer. We demonstra
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/1702/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-This work aims at the spectral and timing study of a thermonuclear (Type-I) X-ray burst from 4U 1702-429, a low mass X-ray binary system. It uses data from ASTROSAT’s LAPXC and SXT instruments.
+&lt;p&gt;This project focuses on conducting a spectral and timing analysis of the X-ray emission originating from the Low Mass X-Ray Binary (LMXB) system 4U 1702-429. Leveraging data obtained from ASTROSAT&amp;rsquo;s LAXPC and SXT instruments, the investigation aims to shed light on the characteristics of a thermonuclear (Type-I) X-ray burst.&lt;/p&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -82,7 +81,7 @@ This work aims at the spectral and timing study of a thermonuclear (Type-I) X-ra
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/polarimetry/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-In this work, I carry out a literature survey to understand the formalism and the theme of polarimetry. It coveres the topics of Jones and Stokes formalism and material interactions. The project included a hands-on laboratory component and was conluded with a presentation.&lt;/p&gt;
+&lt;p&gt;This project encompasses a comprehensive literature survey aimed at gaining insights into the principles and methodologies of polarimetry. It explores the Jones and Stokes formalism and dives into material interactions of light. Additionally, the project included a hands-on laboratory component to facilitate practical understanding. This was concluded with a detailed presentation summarising the findings and experiences.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -92,8 +91,7 @@ In this work, I carry out a literature survey to understand the formalism and th
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/cpt/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-Bismuth Oxyiodide (BiOI) is a photocatalytic material which shows remarkable electrical and optical properties, and can used to decompose pollutants in aquaous systems. In this work, we synthese BiOI nandics using the co-precipitative method and confirm the formation of the nano structures using  X-ray diffraction and scanning electron microscopy methods. Upon the confirmation of the material, we also test its photocatalytic properties.
-This work was lead by S. Patil which cumlminated into his bachelor thesis.
+Bismuth Oxyiodide (BiOI) is a promising photocatalytic material with exceptional electrical and optical properties, suitable for decomposing pollutants in aqueous systems. This project focuses on the synthesis of BiOI nanodiscs via the co-precipitation method, followed by thorough characterisation using X-ray diffraction and scanning electron microscopy techniques to confirm the formation of nanostructures. Subsequently, the photocatalytic properties of the synthesised material were investigated. This project, led by S. Patil, served as the foundation for his bachelor thesis.
 &lt;/p&gt;
 </description>
     </item>
@@ -104,7 +102,8 @@ This work was lead by S. Patil which cumlminated into his bachelor thesis.
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://a-vani.github.io/project/uvit/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;
-Photometric calibrations are important part of observations aimed at deriving photometric magnitudes of objects. In order to get useful calibrations, it is required to make various corrections for instrumental effects, such as. saturation and spatial variation of sensitivity. This work discusses the procedures to find best estimates of the photon counts per second (C/S) in the filters of UVIT (Ultraviolet Imaging Telescope onboard ASTROSAT) for the calibration source HZ4 (a white dwarf) and an open cluster NGC188 at high declination. In particular it is checked that the procedures for flat field correction are effective in minimizing spatial variation to which leads to improved photometry.&lt;/p&gt;
+&lt;p&gt;Photometric calibrations are essential for accurately determining the photometric magnitudes of celestial objects. This thesis focuses on the calibration procedures for the Ultraviolet Imaging Telescope (UVIT) onboard ASTROSAT. The aim is to obtain precise estimates of the photon counts per second (C/S) in UVIT filters for calibration sources, including the white dwarf HZ4 and the open cluster NGC188. The procedures involve correcting for instrumental effects such as saturation and spatial variation of sensitivity. Emphasis is placed on evaluating the effectiveness of flat field correction techniques in minimizing spatial variations, ultimately leading to improved photometry.&lt;/p&gt;
+&lt;/p&gt;
 </description>
     </item>
     
